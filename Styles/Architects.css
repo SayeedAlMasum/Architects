@@ -168,4 +168,9 @@ footer{
       .img-architect,.img-social,.our-sponsor,.facts-div,.facts,.feature,.features,.features-title,.of-our,.grid,.grid-bio,.grid-content,.grid-images,.grid-title.title-architect{
         flex-direction: column;
       }
+      .img-social{
+        width: 30%;
+        height: 30%;
+        padding-left: 35%;
+      }
 }
