@@ -173,4 +173,7 @@ footer{
         height: 30%;
         padding-left: 35%;
       }
+      footer{
+        margin-left: 15%;
+      }
 }
